@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 12 Forms", "Task 12 Forms\Task 12 Forms.csproj", "{94CD2FE5-07F9-48F7-A3DE-0E4E1F943E07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94CD2FE5-07F9-48F7-A3DE-0E4E1F943E07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94CD2FE5-07F9-48F7-A3DE-0E4E1F943E07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94CD2FE5-07F9-48F7-A3DE-0E4E1F943E07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94CD2FE5-07F9-48F7-A3DE-0E4E1F943E07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58379C40-564D-425E-8187-16660BC4A4EE}
+	EndGlobalSection
+EndGlobal
